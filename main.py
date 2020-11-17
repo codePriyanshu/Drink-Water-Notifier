@@ -6,7 +6,7 @@ if __name__ == "__main__":
         notification.notify(
             title = "Drink Water!",
             message = "Drink Water Now From Your Bottle",
-            app_icon = "G:/Software Development/Python/Drink-Water-Notification/assets/icon.ico",
+            app_icon = "Paste The Path Here",
             timeout = 8
         )
         time.sleep(60*60)
